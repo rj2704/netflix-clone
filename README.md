@@ -1,9 +1,5 @@
-It is a clone of Netflix's web interface. This app was created using React 
-    functional components, Redux state management, axios async/await requests, and deployed on Google Firebase. 
-    Firebase Authentication allows user account creation. Additional functionality includes customer subscription checkout powered by 
-    Stripe API integration. Once a user is subscribed, movie data is pulled 
-    from The Movie Database (TMDB) for trending movies and movie poster images. Movie trailers are integrated 
-    from YouTube if one is successfully found.
+It is a clone of Netflix's web interface. This app was created using React functional components, Redux state management, axios async/await requests, and deployed on Google Firebase. Firebase Authentication allows user account creation. Additional functionality includes customer subscription checkout powered by Stripe API integration. Once a user is subscribed, movie data is pulled from The Movie Database (TMDB) for trending movies and movie poster images. Movie trailers are integrated from YouTube if one is successfully found.
+
 Link for the project: https://netflix-clone-e4e6d.web.app/
 
 
